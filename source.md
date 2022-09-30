@@ -21,7 +21,7 @@
     <td><p>Lake Naivasha is  a freshwater lake that is part of the Great Rift Valley in Kenya. It is 13 km  across and is very shallow with an average depth of only 5 metres. The lake is  situated outside the town of Naivasha in Nakuru County. The name comes from the  local Maasai name Nai'posha which means rough water as afternoon wind and  sudden storms can occur. It has a large population of hippos that emerge from  Lake Naivasha every evening to graze in the sunset. <a href="http://www.magicalkenya.com" target="_blank">Click here</a> for further  details.</p></td>
   </tr>
   <tr>
-    <td><h3>Edited by:Ian Danowicz AR272 15</h3></td>
+    <td><h3>Edited by:CandiF AR272 N#0</h3></td>
   </tr>
 </table>
 </body>
